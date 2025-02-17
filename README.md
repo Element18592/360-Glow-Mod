@@ -1,7 +1,7 @@
 # 360 Glow Mod 
 
 <p align="center">
-  <img src="/Images/mockup.png">
+  <img src="/Images/Phat Diagram.png">
 </p> 
 
 ## Description
